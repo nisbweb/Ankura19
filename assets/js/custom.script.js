@@ -98,7 +98,7 @@
          ========================================================================== */
         if($('#csi-typed-string').length){
             $('#csi-typed-string').typed({
-                strings: ["User Interface", "User Interface 2","User Interface 3"],
+                strings: ["A Technology Zing!", "A Technology Zing!","A Technology Zing!"],
                 // typing speed
                 typeSpeed: 60,
                 // time before typing starts
